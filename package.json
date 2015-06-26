@@ -9,7 +9,7 @@
   "main": "index.js",
   "author": "Lochlan Wansbrough <lochie@live.com> (http://lwansbrough.com)",
   "peerDependencies": {
-    "react-native": ">=0.4.X-rc"
+    "react-native": ">=0.6.0-rc"
   },
   "keywords": [
     "react",
